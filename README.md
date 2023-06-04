@@ -1,2 +1,2 @@
-# CLOCK
-Python--Customtkinter--clock
+# Reminder
+Python--Customtkinter--Reminder
